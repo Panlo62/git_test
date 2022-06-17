@@ -1,2 +1,3 @@
 Hello world!
 Learning web developing from TOP - The Odin Project
+Checking message using code without -m flag
